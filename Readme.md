@@ -153,4 +153,4 @@ print(result)
 
 ## License
 
-This project is for research and educational
+This project is for research and educational purpose only.
